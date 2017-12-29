@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2017
-** bsc.c
+** bsq.c
 ** File description:
 ** bsq
 */
